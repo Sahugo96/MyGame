@@ -1,7 +1,0 @@
-{
-  "name": "Game.Tools",
-  "rootNamespace": "Game.Tools",
-  "references": ["Game.Shared"],
-  "includePlatforms": ["Editor"],
-  "autoReferenced": true
-}

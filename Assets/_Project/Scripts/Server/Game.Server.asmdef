@@ -1,7 +1,0 @@
-{
-  "name": "Game.Server",
-  "rootNamespace": "Game.Server",
-  "references": ["Game.Shared"],
-  "defineConstraints": ["UNITY_SERVER || UNITY_EDITOR"],
-  "autoReferenced": true
-}

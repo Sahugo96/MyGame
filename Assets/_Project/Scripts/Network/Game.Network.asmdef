@@ -1,6 +1,0 @@
-{
-  "name": "Game.Network",
-  "rootNamespace": "Game.Network",
-  "references": ["Game.Shared"],
-  "autoReferenced": true
-}
