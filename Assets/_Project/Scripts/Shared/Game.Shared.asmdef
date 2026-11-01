@@ -1,0 +1,6 @@
+{
+  "name": "Game.Shared",
+  "rootNamespace": "Game.Shared",
+  "references": [],
+  "autoReferenced": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Game.Client",
+  "rootNamespace": "Game.Client",
+  "references": ["Game.Shared"],
+  "defineConstraints": ["!UNITY_SERVER"],
+  "autoReferenced": true
+}
